@@ -1,0 +1,8 @@
+html {
+    font-family: "Mona Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+img {
+    width: 100px;
+    border-radius: 10px;
+}
