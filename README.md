@@ -1,6 +1,6 @@
 # Pablo's Portfolio Website
 
-Welcome to the public repository for [my personal portfolio website](https://pablolebed.dev). This site showcases my skills, projects, and professional experience.
+Welcome to the public repository for my **[portfolio](https://pablolebed.dev)** website. This site showcases my skills, projects, and professional experience.
 
 ## 🛠️ Technologies Utilized
 
