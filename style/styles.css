@@ -1,11 +1,21 @@
-html {
-    font-family: "Mona Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-}
+@font-face {
+    font-family: 'Mona Sans';
+    src: url('/fonts/Mona-Sans.woff2');
+    font-weight: 200 900;
+    font-stretch: 75% 125%;
+    font-display: swap;
+  }
+  
+  html {
+    font-family: 'Mona Sans', sans-serif;
+  }
+
 img {
     width: 130px;
     border-radius: 70px;
+}
+
+p,
+ul {
+    font-size: 17px;
 }
